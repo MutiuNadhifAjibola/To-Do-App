@@ -1,0 +1,28 @@
+body{
+    background-color: #9a9a9a;
+}
+h1{
+    text-align: center;
+}
+Form{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+input{
+    border: 5px;
+}
+button{
+    background-color: #008000;
+    color: white;
+    font-size: 15px;
+}
+ul li button{
+    background-color: black;
+ color: red;
+ font-size: 17px;
+ text-align: center;
+ margin-left: 10px;
+ margin-top: 10px;
+}
